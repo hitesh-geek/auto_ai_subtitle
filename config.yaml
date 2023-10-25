@@ -1,11 +1,11 @@
 #输入的视频文件
-input: /content/drive/MyDrive/HODV21150.avi
+input: /content/drive/MyDrive/.avi
 #中间过程会生成的音频文件
-output: /content/drive/MyDrive/HODV21150.mp3
+output: /content/drive/MyDrive/.mp3
 #生成的原始字幕文件
-srt_path: /content/drive/MyDrive/HODV21150.srt
+srt_path: /content/drive/MyDrive/.srt
 #生成的翻译后的字幕文件
-srt_translate_path: /content/drive/MyDrive/HODV21150-en.srt
+srt_translate_path: /content/drive/MyDrive/.srt
 #翻译时开启多少线程
 translate_threads: 10
 #翻译源语言
